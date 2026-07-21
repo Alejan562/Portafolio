@@ -39,7 +39,7 @@ Un servidor técnico sin una buena gestión no dura mucho. Por eso, también me 
 - Coordinación de moderadores y managers
 - Organización de roles y protocolos de trabajo
 - Configuración profesional de Discord
-- Creación de canales, bots de seguridad y logs de moderación
+- Creación de canales
 - Resolución de conflictos y atención al jugador
 - Mantenimiento del orden dentro del servidor
 
