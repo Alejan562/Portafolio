@@ -1,39 +1,47 @@
-# &4Portafolio
+# Portafolio de Administración de Servidores
 
-Soy una persona que está aprendiendo y creciendo en la configuración y administración de servidores de Minecraft. Me gusta crear experiencias funcionales, ordenadas y adaptadas a cada comunidad, cuidando tanto la parte técnica como la organización general del servidor.
+*Soy una persona que está aprendiendo y creciendo en la configuración y administración de servidores de Minecraft. Me gusta crear experiencias funcionales, ordenadas y adaptadas a cada comunidad, cuidando tanto la parte técnica como la organización general del servidor.*
 
-Tengo experiencia en la configuración, reparación y personalización de plugins como **MythicMobs**, **InfernalMobs**, **WorldEdit**, **WorldGuard**, **ItemEdit**, **ItemTag**, **KOTH**, **MyPortals** y **Tebex**. También trabajo con archivos `.yml`, traducción de mensajes y corrección de errores en plugins para que todo funcione de forma estable.
+---
 
-Además, tengo experiencia en la administración de moderadores, managers y Discord, organizando roles, canales, permisos y comunicación para mantener una comunidad ordenada y activa. También estoy comenzando como creador de contenido en **YouTube**, **Instagram**, **Facebook** y **TikTok**, compartiendo proyectos, avances y contenido relacionado con servidores.
+## Perfil Técnico
+Tengo experiencia configurando, reparando y adaptando diversos plugins para lograr un servidor estable:
 
-## &4Experiencia
+*   **Edición de Archivos:** Corrección de archivos `.yml`, traducción de mensajes y reparación de errores en plugins.
+*   **Sistemas:** Uso de **TAP** y variables.
+*   **Tienda:** Configuración de **Tebex**.
 
-- Configuración y corrección de archivos `.yml`
-- Traducción y edición de mensajes
-- Reparación de plugins dañados
-- Reparación de **WorldGuard**
-- Uso de **TAP** y variables
-- Configuración de **MythicMobs**
-- Configuración de **InfernalMobs**
-- **WorldEdit:** apoyo en construcción y edición de terreno
-- **WorldGuard:** protección de zonas y creación de regiones
-- Personalización con **ItemEdit** e **ItemTag**
-- Configuración de eventos **KOTH**
-- Creación de portales con **MyPortals**
-- Configuración de tienda con **Tebex**
+## Plugins Especializados
 
-## &4Gestión y comunidad
+### Construcción y Protección
+*   **WorldEdit:** Apoyo en construcción, edición de terreno y copiado/pegado de estructuras.
+*   **WorldGuard:** Creación de regiones, protección de zonas y **reparación de conflictos**.
 
-- Administración de moderadores y managers
-- Organización de Discord
-- Configuración de roles, canales y permisos
-- Apoyo en la comunicación y el orden de la comunidad
+### Mobs y Eventos
+*   **MythicMobs:** Creación y configuración de jefes y mobs personalizados.
+*   **InfernalMobs:** Ajustes de dificultad.
+*   **KOTH:** Configuración de eventos competitivos.
 
-## &4Redes y contenido
+### Gestión de Ítems y Mundo
+*   **ItemEdit / ItemTag:** Personalización de objetos.
+*   **MyPortals:** Creación de portales de teletransporte.
 
-- YouTube
-- Instagram
-- Facebook
-- TikTok
+---
 
-Estoy en constante aprendizaje y siempre buscando mejorar en cada proyecto en el que participo.
+## Gestión y Comunidad
+*   **Administración:** Gestión de equipos, moderadores y managers.
+*   **Discord:** Organización total de roles, canales, permisos y bots.
+*   **Soporte:** Apoyo en la comunicación y resolución de problemas para los jugadores.
+
+---
+
+## Contenido
+*Actualmente estoy creando contenido compartiendo mis proyectos y avances en:*
+*   **YouTube**
+*   **Instagram**
+*   **Facebook**
+*   **TikTok**
+
+---
+
+*Estoy en constante aprendizaje y siempre buscando mejorar en cada proyecto en el que participo.*
